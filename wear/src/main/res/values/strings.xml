@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wear</string>
+    <string name="message">Watch face tapped</string>
+    <string name="my_analog_name">Sunshine</string>
+    <string name="digital_am">AM</string>
+    <string name="digital_pm">PM</string>
+    <string name="mySunshine">Sunshine</string>
+    <string name="day">Fri, Jul 14 2015</string>
+    <string name="no_weather">No weather data</string>
+</resources>

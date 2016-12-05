@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "998092107470",
+    "firebase_url": "https://android-wear-24be6.firebaseio.com",
+    "project_id": "android-wear-24be6",
+    "storage_bucket": "android-wear-24be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998092107470:android:83b792e26f07bf18",
+        "android_client_info": {
+          "package_name": "com.example.android.sunshine.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998092107470-pahvba4bokk2kjchc2l4beggjhu523gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJdb6doR1Jbq53e9Jcc01zJFYfbQMiUNg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
